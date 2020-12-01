@@ -1,0 +1,145 @@
+Testing with 4 years of experience and 35 completed tours:
+
+Mamdani and Centroid:
+644.9612048168492 CUP
+
+
+Mamdani and Bisection:
+641.6000000000777 CUP
+
+
+Mamdani and Mean of Maxim:
+583.3000000000599 CUP
+
+
+Larsen and Centroid:
+570.3403288523566 CUP
+
+
+Larsen and Bisection:
+538.7000000000543 CUP
+
+
+Larsen and Mean of Maxim:
+349.9500000000122 CUP
+
+
+
+
+
+
+Testing with 10 years of experience and 78 completed tours:
+
+Mamdani and Centroid:
+1500.0000000000775 CUP
+
+
+Mamdani and Bisection:
+1499.9999999997317 CUP
+
+
+Mamdani and Mean of Maxim:
+1499.999999999725 CUP
+
+
+Larsen and Centroid:
+1500.0000000000346 CUP
+
+
+Larsen and Bisection:
+1499.9999999997317 CUP
+
+
+Larsen and Mean of Maxim:
+1500.049999999731 CUP
+
+
+
+
+
+
+Testing with 23 years of experience and 234 completed tours:
+
+Mamdani and Centroid:
+2151.3901405215975 CUP
+
+
+Mamdani and Bisection:
+2301.199999999003 CUP
+
+
+Mamdani and Mean of Maxim:
+2605.049999998734 CUP
+
+
+Larsen and Centroid:
+2257.5771493797056 CUP
+
+
+Larsen and Bisection:
+2477.6999999988425 CUP
+
+
+Larsen and Mean of Maxim:
+2850.049999998509 CUP
+
+
+
+
+
+
+Testing with 39 years of experience and 452 completed tours:
+
+Mamdani and Centroid:
+2643.617160217551 CUP
+
+
+Mamdani and Bisection:
+2674.5999999986634 CUP
+
+
+Mamdani and Mean of Maxim:
+2850.049999998509 CUP
+
+
+Larsen and Centroid:
+2643.617160217551 CUP
+
+
+Larsen and Bisection:
+2674.5999999986634 CUP
+
+
+Larsen and Mean of Maxim:
+2850.049999998509 CUP
+
+
+
+
+
+
+Testing with 26 years of experience and 965 completed tours:
+
+Mamdani and Centroid:
+2637.81428739597 CUP
+
+
+Mamdani and Bisection:
+2664.7999999986723 CUP
+
+
+Mamdani and Mean of Maxim:
+2829.5999999985484 CUP
+
+
+Larsen and Centroid:
+2643.617160217625 CUP
+
+
+Larsen and Bisection:
+2674.5999999986634 CUP
+
+
+Larsen and Mean of Maxim:
+2850.049999998509 CUP
+
